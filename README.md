@@ -48,6 +48,7 @@
 - [survey-scale-review](https://github.com/gtskevin/survey-scale-review) - 问卷量表审查 Skill，仓库内附专门的 WorkBuddy 安装指南，不会命令行也能装.
 - [7q-decision-skill](https://github.com/reallysix/7q-decision-skill) - 孙子兵法「五事七计」决策框架 Skill，附 workbuddy-guide.md 演示如何装入 WorkBuddy 并发布到 ClawHub.
 - [LinSkills](https://linskills.qiniu.com) - 七牛云维护的社区技能精选库，按下载量排行，ZIP 下载解压即用.
+- [BonChanxxx/mcd-archive](https://github.com/BonChanxxx/mcd-archive) - 麦麦档案：基于麦当劳官方 MCP，把账号数据（门票/徽章/积分）生成可分享档案卡片的 WorkBuddy 技能.
 - [GitHub Topic: workbuddy](https://github.com/topics/workbuddy) - GitHub 上 80+ 个 workbuddy 相关仓库的总入口，找新项目先看这里.
 
 ## Prompts & Workflows 提示词与工作流
